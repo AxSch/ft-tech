@@ -1,0 +1,28 @@
+{
+  "name": "ft-tech",
+  "version": "1.0.0",
+  "description": "A simple package that returns a promise for each url",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxSch/ft-tech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AxSch/ft-tech/issues"
+  },
+  "homepage": "https://github.com/AxSch/ft-tech#readme",
+  "dependencies": {
+    "axios": "^0.19.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^7.0.0",
+    "sinon": "^8.0.4"
+  }
+}
